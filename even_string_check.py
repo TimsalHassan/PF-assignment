@@ -1,5 +1,3 @@
-
-
 #Name : Timsal Hassan
 #Roll Number : 1129
 #Semester : 1st 
